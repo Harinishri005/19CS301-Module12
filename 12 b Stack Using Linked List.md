@@ -14,8 +14,10 @@ To write a Python program to insert 3 elements into a stack and display the inde
 6. Stop
 
 ## Program
+## Name:Harinishri S
+## Reg No:212223090008
 
-```python
+```
 stack = []
 
 # Push elements into the stack
