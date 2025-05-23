@@ -32,7 +32,11 @@ for i in range(len(stack)):
 ```
 
 ## Output
+![image](https://github.com/user-attachments/assets/0ea56ec9-3d05-40ec-99d8-30e9ffa7f38d)
 
 
 ## Result
+Thus,the given program is implemented and executed successfully.
+
+
 
