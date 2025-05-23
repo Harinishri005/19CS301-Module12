@@ -13,8 +13,10 @@ To write a Python program to add 4 elements to a queue and print the elements pr
 5. Stop
 
 ## Program
+## Name:Harinishri S
+## Reg No:212223090008
 
-```python
+```
 queue = []
 
 # Enqueue elements into the queue
@@ -29,9 +31,13 @@ print('Initial Queue:', queue)
 # Print front and rear elements
 print("\nElement at the front of the queue is", queue[0])
 print("\nElement at the rear of the queue is", queue[-1])
+```
 
 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/145e896c-959c-4fd8-b8db-938ac8a58cd0)
+
 
 ## RESULT
+
