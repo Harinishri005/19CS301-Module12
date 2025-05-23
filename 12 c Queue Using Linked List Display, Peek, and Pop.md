@@ -18,16 +18,10 @@ To write a Python program to insert 3 elements into a queue and display each ele
 
 ```
 queue = []
-
-# Enqueue elements into the queue
 queue.append("a")
 queue.append("b")
 queue.append("c")
-
-# Display the initial queue
 print("Initial queue:", queue)
-
-# Display index and element
 for i in range(len(queue)):
     print(i, queue[i])
 ```
@@ -37,4 +31,7 @@ for i in range(len(queue)):
 
 
 ## RESULT
+Thus, the given program is implemented and executed successfully .
+
+
 
