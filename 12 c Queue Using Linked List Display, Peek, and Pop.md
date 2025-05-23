@@ -13,8 +13,10 @@ To write a Python program to insert 3 elements into a queue and display each ele
 5. Stop
 
 ## Program
+## Name:Harinishri S
+## Reg No:212223090008
 
-```python
+```
 queue = []
 
 # Enqueue elements into the queue
@@ -31,6 +33,8 @@ for i in range(len(queue)):
 ```
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/99042a98-6686-4e78-96de-a0a57950656a)
 
 
 ## RESULT
+
